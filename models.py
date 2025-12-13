@@ -54,3 +54,5 @@ async def search_patient_db(name: str):
         patients.append(patient_helper(i))
     
     return patients
+
+    
